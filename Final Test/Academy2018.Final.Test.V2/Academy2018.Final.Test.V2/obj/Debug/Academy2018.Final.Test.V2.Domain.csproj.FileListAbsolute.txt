@@ -1,0 +1,6 @@
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\obj\Debug\Academy2018.Final.Test.V2.Domain.csprojResolveAssemblyReference.cache
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\obj\Debug\Academy2018.Final.Test.V2.Domain.csproj.CoreCompileInputs.cache
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\bin\Debug\Academy2018.Final.Test.V2.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\bin\Debug\Academy2018.Final.Test.V2.pdb
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\obj\Debug\Academy2018.Final.Test.V2.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\obj\Debug\Academy2018.Final.Test.V2.pdb

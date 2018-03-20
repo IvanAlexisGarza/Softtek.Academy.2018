@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html ng-app="ToDoList">
+
+<head>
+
+</head>
+
+<body ng-controller="MainController as ctrl">
+    <div class="container">
+        <form action="#" ng-submit="ctrl.CreateTask()">
+            <br>
+            <div class="group">
+                <input type="text" ng-model="ctrl.taskName" name="name" id=""></input>
+                <span class="highlight"></span>
+                <span class="bar"></span>
+                <label>Name</label>
+            </div>
+            <br>
+            <div class="group">
+                <input type="text" ng-model="ctrl.taskDescription" name="description" id=""></input>
+                <span class="highlight"></span>
+                <span class="bar"></span>
+                <label>Description</label>
+            </div>
+            <br>
+            <div class="group">
+                <input type="submit" value="Submit"></input>
+                <label>Task ID to Delete</label>
+                <input type="submit" value="Delete"></input>
+            </div>
+            <br>
+        </form>
+
+
+        <form action="#" ng-submit="ctrl.UpdateTask()">
+            <div class="group">
+                <input type="text" ng-model="ctrl.updateID" name="id" id=""></input>
+                <span class="highlight"></span>
+                <span class="bar"></span>
+                <label>Task ID to Update</label>
+                <input type="submit" value="Update"></input>
+            </div>
+        </form>
+
+        <form action="#" ng-submit="ctrl.DeleteTask()">
+            <div class="group">
+                <input type="text" ng-model="ctrl.deleteID" name="id" id=""></input>
+                <span class="highlight"></span>
+                <span class="bar"></span>
+                <label>Task ID to Delete</label>
+                <input type="submit" value="Delete"></input>
+            </div>
+        </form>
+
+        <div ng-controller="GetController" class="group">
+            <section ng-repeat="task in myData">
+                <ul>
+                    <li>
+                        <label class="checkbox">
+                            <input type="checkbox" ng-model="todo.done">
+                            <span class="done-{{todo.done}}">{{task.name}}</span>
+                        </label>
+                    </li>
+                    <!-- <li>Name:{{task.name}}</li>
+                <li>description:{{task.description}}</li> -->
+                </ul>
+            </section>
+        </div>
+    </div>
+    <script src="./angular.js"></script>
+    <script src="./script.js"></script>
+    <script src="./task-list.get.js"></script>
+    <link rel="stylesheet" type="text/css" href="./style.css">
+
+
+</body>
+
+</html>

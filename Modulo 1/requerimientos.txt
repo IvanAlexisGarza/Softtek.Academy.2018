@@ -1,0 +1,22 @@
+
+Requerimientos Sistema bibliotecario Garza 
+
+El sistema permitirá a los usuarios registrarse con sus información personal y fotografia
+El sistema permitirá almacenar un registro de los materiales de la biblioteca 
+El sistema permitirá relacionar materiales con los usuarios en forma de prestamo 
+El sistema debe desplegar la información del material a la hora de hacer un prestamo 
+El sistema diferenciará el plazo de vencimiento del prestamo dependiendo su tipo de material
+El sistema debe considerar el plazo de prestamo de los materiales de tipo optico como vencido después de siete días 
+El sistema debe considerar el plazo de prestamo de los materiales de tipo impreso como vencido después de veintiun días 
+El sistema debe poder emitir la lista de materiales prestados 
+La lista de materiales prestados debe emitir la fecha de expiración del prestamo del material y el nombre del ususario al cual esta relacionado.
+La lista de materiales prestados debe permitir el cambio de orden de emision ya sea alfabeticamente o por fecha de expiracion de prestamo 
+El sistema permite que el ususario renueve su prestamo por lo menos una vez 
+El sistema verifica que el el material que solicitado por el ususario no haya sido prestado a el mismo por lo menos veinticuatro horas antes 
+
+
+
+/* posibles sugerencias
+El sistema permitira el envio automatizado de recordatorios de vencimiento de prestamos por correo
+El sistema debe poder emitir la lista de materiales ordenada por distintos tipos como; estatus de prestamo, categorias, idiomas, region, nombre, etc.
+*/

@@ -1,0 +1,9 @@
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\SurveyAppDemoLive\bin\Debug\SurveyAppDemoLive.exe.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\SurveyAppDemoLive\bin\Debug\SurveyAppDemoLive.exe
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\SurveyAppDemoLive\bin\Debug\SurveyAppDemoLive.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\SurveyAppDemoLive\obj\Debug\SurveyAppDemoLive.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\SurveyAppDemoLive\obj\Debug\SurveyAppDemoLive.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\SurveyAppDemoLive\obj\Debug\SurveyAppDemoLive.exe
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\SurveyAppDemoLive\obj\Debug\SurveyAppDemoLive.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\SurveyAppDemoLive\bin\Debug\DataAccess.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\SurveyAppDemoLive\bin\Debug\DataAccess.pdb

@@ -1,0 +1,38 @@
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\obj\Debug\Academy2018.Final.Test.V2.Business.csproj.CoreCompileInputs.cache
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.Business.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.Business.pdb
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.pdb
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\obj\Debug\Academy2018.Final.Test.V2.Business.csprojResolveAssemblyReference.cache
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\obj\Debug\Academy2018.Final.Test.V2.Business.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\obj\Debug\Academy2018.Final.Test.V2.Business.pdb
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.Data.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\EntityFramework.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.Data.pdb
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.Data.dll.config
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\EntityFramework.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.Business.dll.config
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\System.Net.Http.Extensions.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\System.Net.Http.Primitives.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\System.Net.Http.Extensions.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\System.Net.Http.Primitives.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\obj\Debug\Academy2018.Final.Test.V2.Business.csproj.App.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.Business.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.Business.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.Business.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.Data.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\EntityFramework.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.Data.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.Data.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\Academy2018.Final.Test.V2.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\bin\Debug\EntityFramework.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\obj\Debug\Academy2018.Final.Test.V2.Business.csproj.App.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\obj\Debug\Academy2018.Final.Test.V2.Business.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\obj\Debug\Academy2018.Final.Test.V2.Business.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\obj\Debug\Academy2018.Final.Test.V2.Business.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Business\obj\Debug\Academy2018.Final.Test.V2.Business.pdb

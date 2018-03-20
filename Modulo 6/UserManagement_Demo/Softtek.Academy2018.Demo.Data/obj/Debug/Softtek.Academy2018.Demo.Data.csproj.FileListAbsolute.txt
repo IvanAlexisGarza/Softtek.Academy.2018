@@ -1,0 +1,36 @@
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\Softtek.Academy2018.Demo.Data.dll.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\Softtek.Academy2018.Demo.Data.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\Softtek.Academy2018.Demo.Data.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\EntityFramework.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\Softtek.Academy2018.Demo.Domain.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\Softtek.Academy2018.Demo.Domain.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\EntityFramework.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.csprojResolveAssemblyReference.cache
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.Migrations.init.resources
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.Migrations.refactoring_to_user_projects.resources
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.Migrations.pending_changes.resources
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.csproj.GenerateResource.Cache
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.csproj.CoreCompileInputs.cache
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\Softtek.Academy2018.Demo.Data.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\Softtek.Academy2018.Demo.Data.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\Softtek.Academy2018.Demo.Data.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\EntityFramework.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\Softtek.Academy2018.Demo.Domain.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\Softtek.Academy2018.Demo.Domain.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\EntityFramework.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.Migrations.init.resources
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.Migrations.refactoring_to_user_projects.resources
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.Migrations.pending_changes.resources
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.csproj.GenerateResource.Cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\obj\Debug\Softtek.Academy2018.Demo.Data.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\Ninject.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.Data\bin\Debug\Ninject.xml

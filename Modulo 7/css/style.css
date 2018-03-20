@@ -1,0 +1,64 @@
+label{
+    font-family: 'Roboto Slab';font-size: 22px;
+}
+
+input {
+    width: 100%;
+        box-sizing: border-box;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.costum-button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.costum-button-danger {
+    background-color: #B71427; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+#B71427
+
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+input[type=text]:focus {
+    border-radius: 4px;
+        width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #67BCDB;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}

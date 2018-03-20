@@ -1,0 +1,132 @@
+{
+  "Tasks": [
+    {
+      "id": "integer",
+      "name": "string",
+      "description": "string",
+      "isDone": "boolean",
+      "tags": []
+    },
+    {
+      "name": "ww",
+      "description": "w",
+      "id": "3Gh8czE"
+    },
+    {
+      "name": "ivan",
+      "description": "ivan",
+      "id": "onG4Uc_"
+    },
+    {
+      "name": "Alex",
+      "description": "Alex",
+      "isDone": true,
+      "id": "e9ElMql"
+    },
+    {
+      "name": "mio",
+      "description": "mio",
+      "id": "V3tygS0"
+    },
+    {
+      "name": "lalo",
+      "description": "lalo",
+      "id": "2gXiRRe"
+    },
+    {
+      "name": "asd",
+      "description": "asdsad",
+      "id": "ptdjbSy"
+    },
+    {
+      "name": "hola",
+      "description": "hola",
+      "id": "FIL1B9x"
+    },
+    {
+      "isDone": true,
+      "id": "s4nnTP9"
+    },
+    {
+      "name": "sad",
+      "description": "asd",
+      "id": "qgOCz_w"
+    },
+    {
+      "description": "sadasd",
+      "id": "WzHzEGw"
+    },
+    {
+      "name": "Alexis",
+      "description": "Alexis",
+      "isDone": false,
+      "id": "hp9yldP"
+    },
+    {
+      "isDone": false,
+      "id": "04AHN32"
+    },
+    {
+      "isDone": false,
+      "id": "028~mco"
+    },
+    {
+      "isDone": false,
+      "id": "F1JWrMs"
+    },
+    {
+      "isDone": false,
+      "id": "roNx8YC"
+    },
+    {
+      "isDone": false,
+      "id": "zs1HcGk"
+    },
+    {
+      "isDone": false,
+      "id": "VfKumuu"
+    },
+    {
+      "isDone": false,
+      "id": "lZMPonz"
+    },
+    {
+      "isDone": false,
+      "id": "HmFa1Tq"
+    }
+  ],
+  "tags": [
+    {
+      "id": "integer",
+      "name": "string"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "is": "DRVA",
+      "fname": "David",
+      "last_name": "Rodriguez",
+      "second_last_name": "Vazquez",
+      "hour": "10-10-2018T17:00:00",
+      "calification": "10"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

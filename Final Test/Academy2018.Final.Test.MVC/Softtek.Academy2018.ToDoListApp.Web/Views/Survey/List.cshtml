@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Softtek.Academy2018.ToDoListApp.Web.ViewModels.SurveyViewModel>
+@using Softtek.Academy2018.ToDoListApp.Web.Models
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>My pending items</h2>
+<br />
+@Html.ActionLink("Add survey", "New", "Survey")
+<hr />
+<br />
+
+@if (Model.Count() <= 0)
+{
+    <h1>You don't have any surveys yet!</h1>
+}
+else
+{
+    <table class="table table-striped", style="table-layout:fixed">
+        <thead style="display:table-header-group">
+            <tr>
+                <th id="th1">Title</th>
+                <th id="th2">Description</th>
+                <th id="th3">Status</th>
+                <th id="th5">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var survey in Model)
+                {
+
+                <tr>
+                    <td headers="th1">@survey.Title</td>
+                    <td headers="th2">@survey.Description</td>
+                    <td headers="th3">@survey.Status</td>
+                    <td headers="th4">@survey.IsActive</td>
+                    <td headers="th5">@Html.Partial("_PartialButtons", new PartialButton { Id = survey.Id })</td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+}
+

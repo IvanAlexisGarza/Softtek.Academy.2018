@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.Serialization;
+using System.Web;
+
+namespace Softtek.Academy2018.Demo.WCF.Messages
+{   [DataContract]
+    public class GetUserResponse : BaseResponse
+    {
+        [DataMember]
+        public int Id { get; set; }
+
+        [DataMember]
+        public string IS { get; set; }
+       
+        [DataMember]
+        public string FirstName { get; set; }
+
+        [DataMember]
+        public string LastName { get; set; }
+
+        [DataMember]
+        public DateTime? DateOfBirth { get; set; }
+
+        [DataMember]
+        public Double Salary { get; set; }
+        [DataMember]
+        public DateTime CreatedDate { get; set; }
+        [DataMember]
+        public DateTime? ModifiedDate { get; set; }
+
+    }
+}

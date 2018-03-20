@@ -1,0 +1,6 @@
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\SurveyAppDemoLive\DataAccess\obj\Debug\DataAccess.pdb

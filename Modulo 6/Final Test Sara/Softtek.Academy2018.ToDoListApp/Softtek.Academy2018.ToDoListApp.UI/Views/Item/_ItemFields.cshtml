@@ -1,0 +1,40 @@
+﻿@model  Softtek.Academia2018.ToDoListApp.DTO.ItemDTO
+@{ Html.EnableClientValidation(); }
+
+<script>
+  $( function() {
+    $( ".datepicker" ).datepicker();
+  } );
+</script>
+
+<div class="form-group">
+    <fieldset>
+        @Html.LabelFor(i => i.Title, new { @class = "control-label" })
+        @Html.TextBoxFor(i => i.Title, new { @class = "form-control" })
+    </fieldset>
+</div>
+
+<div class="form-group">
+    <fieldset>
+        @Html.LabelFor(i=>i.Description, new { @class = "control-label" })
+        @Html.TextAreaFor(i=>i.Description, new { @class = "form-control" })
+    </fieldset>
+</div>
+
+<div class="form-group">
+    <fieldset>
+        @Html.LabelFor(i => i.DueDate, new { @class = "control-label" })
+        @Html.TextBoxFor(i => i.DueDate, new { @class = "form-control datepicker" })
+    </fieldset>
+</div>
+
+<div class="form-group">
+    <fieldset>
+        @Html.LabelFor(i => i.PriorityId, new { @class = "control-label" })
+        @Html.DropDownList("PriorityId",
+              EnumHelper.GetSelectList(typeof(Softtek.Academy2018.ToDoListApp.Domain.Enums.Priority)),
+              "Select a Priority",
+              new { @class = "form-control" })   
+    </fieldset>
+</div>
+

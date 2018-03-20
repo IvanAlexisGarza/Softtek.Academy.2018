@@ -1,0 +1,60 @@
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.BusinessTests.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.BusinessTests.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Castle.Core.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Moq.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Business.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Data.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Domain.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\System.ValueTuple.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\EntityFramework.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Business.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Data.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Data.dll.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Domain.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Castle.Core.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Moq.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Moq.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\EntityFramework.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\obj\Debug\Softtek.Academy2018.Demo.BusinessTests.csprojResolveAssemblyReference.cache
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\obj\Debug\Softtek.Academy2018.Demo.BusinessTests.csproj.CoreCompileInputs.cache
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\obj\Debug\Softtek.Academy2018.Demo.BusinessTests.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\obj\Debug\Softtek.Academy2018.Demo.BusinessTests.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.BusinessTests.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.BusinessTests.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Castle.Core.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Moq.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Business.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Data.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Domain.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\EntityFramework.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Business.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Data.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Data.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Softtek.Academy2018.Demo.Domain.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Castle.Core.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Moq.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\Moq.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\bin\Debug\EntityFramework.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\obj\Debug\Softtek.Academy2018.Demo.BusinessTests.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\obj\Debug\Softtek.Academy2018.Demo.BusinessTests.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\obj\Debug\Softtek.Academy2018.Demo.BusinessTests.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.BusinessTests\obj\Debug\Softtek.Academy2018.Demo.BusinessTests.pdb

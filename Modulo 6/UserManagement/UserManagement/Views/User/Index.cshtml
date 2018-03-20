@@ -1,0 +1,15 @@
+﻿@model IEnumerable<UserManagement.Models.User>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Users</h2>
+<tbody>
+    @foreach(var user in Model)
+    {
+       <tr>
+           <td>@Html.ActionLink(user.FirstName, "Details", "users", new { id = user.Id}, null)</td>
+       </tr>
+    }
+</tbody>

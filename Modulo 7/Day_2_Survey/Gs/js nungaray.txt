@@ -1,0 +1,22 @@
+function renderearPregunta(pregunta){
+    var template='
+    <h2>${pregunta}</h2>
+    <ul>
+    <li>
+    <form onrsubmit="">
+        <input type="text" name="" id="" required="required"
+        <input type="button" value="add new">
+    </form>
+    </li>
+    <li>
+        <input type="radio" name="" id=""> texto random
+        <button>eliminar</button>
+        
+}
+
+
+function agregarPregunta(form,event)
+{
+    event.preventdefault(); esto detiene cualquier evento que tenga 
+
+}

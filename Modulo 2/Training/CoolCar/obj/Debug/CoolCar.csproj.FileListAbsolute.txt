@@ -1,0 +1,6 @@
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Training\CoolCar\bin\Debug\CoolCar.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Training\CoolCar\bin\Debug\CoolCar.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Training\CoolCar\obj\Debug\CoolCar.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Training\CoolCar\obj\Debug\CoolCar.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Training\CoolCar\obj\Debug\CoolCar.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Training\CoolCar\obj\Debug\CoolCar.pdb

@@ -1,0 +1,17 @@
+﻿@model UserManagement.Models.User
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.FirstName</h2>
+<ul>
+    <li> <strong> Names:</strong> @Model.FirstName</li>
+    <li> <strong> Last Names:</strong> @Model.LastName</li>
+    <li> <strong> IS:</strong> @Model.IS</li>
+    <li> <strong> Salary:</strong> @Model.Salary</li>
+    <li> <strong> Project:</strong> @Model.Project</li>
+    <li> <strong> ModDate:</strong> @Model.ModifiedDate.ToString()</li>
+    <li> <strong> Employee Is Active: :</strong> @Model.IsActive</li>
+</ul>

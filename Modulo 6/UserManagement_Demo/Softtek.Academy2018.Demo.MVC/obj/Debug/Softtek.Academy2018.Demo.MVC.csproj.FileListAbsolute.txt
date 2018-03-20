@@ -1,0 +1,234 @@
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\ApplicationInsights.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.MVC.dll.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.MVC.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.MVC.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Antlr3.Runtime.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Newtonsoft.Json.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Domain.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Helpers.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Http.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Mvc.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Optimization.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Razor.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.WebPages.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\WebGrease.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Domain.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Helpers.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Mvc.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Optimization.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Razor.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.WebPages.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Newtonsoft.Json.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Http.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\obj\Debug\Softtek.Academy2018.Demo.MVC.csprojResolveAssemblyReference.cache
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\obj\Debug\Softtek.Academy2018.Demo.MVC.csproj.CoreCompileInputs.cache
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\obj\Debug\Softtek.Academy2018.Demo.MVC.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\obj\Debug\Softtek.Academy2018.Demo.MVC.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Data.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\EntityFramework.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Data.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Data.dll.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\EntityFramework.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\csc.exe
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\csc.exe.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\csc.rsp
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\csi.exe
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\csi.exe.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\csi.rsp
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Console.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\vbc.exe
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\vbc.exe.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\vbc.rsp
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.WebAPI.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\WebActivatorEx.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Ninject.Web.Common.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Ninject.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Business.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.WebAPI.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.WebAPI.dll.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Ninject.Web.Common.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Ninject.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Business.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\obj\Debug\Softtek.Academy2018.Demo.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\obj\Debug\Softtek.Academy2018.Demo.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\obj\Debug\Softtek.Academy2018.Demo.MVC.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\obj\Debug\Softtek.Academy2018.Demo.MVC.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\ApplicationInsights.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.MVC.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.MVC.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.MVC.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\csc.exe
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\csc.exe.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\csc.rsp
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\csi.exe
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\csi.exe.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\csi.rsp
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Console.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\vbc.exe
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\vbc.exe.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\vbc.rsp
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Data.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Domain.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.WebAPI.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Helpers.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Http.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Mvc.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Optimization.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Razor.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.WebPages.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\WebGrease.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\EntityFramework.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\WebActivatorEx.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Ninject.Web.Common.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Business.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Data.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Data.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Domain.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.WebAPI.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.WebAPI.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Helpers.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Http.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Mvc.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Razor.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.WebPages.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\System.Web.Optimization.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\EntityFramework.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Ninject.Web.Common.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Softtek.Academy2018.Demo.Business.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Ninject.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.MVC\bin\Ninject.xml

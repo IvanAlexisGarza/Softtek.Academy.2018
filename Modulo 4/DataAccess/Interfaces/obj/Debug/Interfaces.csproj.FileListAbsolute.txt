@@ -1,0 +1,14 @@
+C:\Users\Academia\source\repos\DataAccess\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Academia\source\repos\DataAccess\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Academia\source\repos\DataAccess\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Academia\source\repos\DataAccess\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Academia\source\repos\DataAccess\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Academia\source\repos\DataAccess\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Academia\source\repos\DataAccess\Interfaces\bin\Debug\Interfaces.dll.config
+C:\Users\Academia\source\repos\DataAccess\Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Academia\source\repos\DataAccess\Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Academia\source\repos\DataAccess\Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Academia\source\repos\DataAccess\Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Academia\source\repos\DataAccess\Interfaces\bin\Debug\DTO.dll
+C:\Users\Academia\source\repos\DataAccess\Interfaces\bin\Debug\DTO.pdb
+C:\Users\Academia\source\repos\DataAccess\Interfaces\bin\Debug\DTO.dll.config

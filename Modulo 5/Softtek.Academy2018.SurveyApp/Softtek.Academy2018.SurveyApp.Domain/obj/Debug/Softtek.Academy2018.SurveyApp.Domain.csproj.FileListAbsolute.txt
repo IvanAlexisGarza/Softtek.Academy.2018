@@ -1,0 +1,6 @@
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Domain\bin\Debug\Softtek.Academy2018.SurveyApp.Domain.dll
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Domain\bin\Debug\Softtek.Academy2018.SurveyApp.Domain.pdb
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Domain\obj\Debug\Softtek.Academy2018.SurveyApp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Domain\obj\Debug\Softtek.Academy2018.SurveyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Domain\obj\Debug\Softtek.Academy2018.SurveyApp.Domain.dll
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Domain\obj\Debug\Softtek.Academy2018.SurveyApp.Domain.pdb

@@ -1,0 +1,17 @@
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\obj\Debug\EFLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\obj\Debug\EFLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\bin\Debug\EFLibrary.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\bin\Debug\EFLibrary.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\bin\Debug\EFLibrary.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\obj\Debug\EFLibrary.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\obj\Debug\EFLibrary.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\obj\Debug\EFLibrary.Migrations.InitialCreate.resources
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\obj\Debug\EFLibrary.csproj.GenerateResource.Cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\obj\Debug\EFLibrary.Migrations.ItemTags.resources
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\obj\Debug\EFLibrary.Migrations.TagRelationships.resources
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\obj\Debug\EFLibrary.Migrations.LastMigration.resources
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 4\FinalExaminationM4\EFLibrary\obj\Debug\EFLibrary.Migrations.Lastlast.resources

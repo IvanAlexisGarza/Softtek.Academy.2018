@@ -1,0 +1,200 @@
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\obj\Debug\Academy2018.Final.Test.V2.WebAPI2.csproj.CoreCompileInputs.cache
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.WebAPI2.dll.config
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.WebAPI2.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.WebAPI2.pdb
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.Business.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Newtonsoft.Json.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Net.Http.Formatting.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Web.Http.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Web.Http.WebHost.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.Data.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\EntityFramework.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.Business.pdb
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.pdb
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Newtonsoft.Json.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Net.Http.Formatting.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Web.Http.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Web.Http.WebHost.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.Data.pdb
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.Data.dll.config
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\EntityFramework.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\obj\Debug\Academy2018.Final.Test.V2.WebAPI2.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\obj\Debug\Academy2018.Final.Test.V2.WebAPI2.pdb
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\obj\Debug\Academy2018.Final.Test.V2.WebAPI2.csprojResolveAssemblyReference.cache
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\csc.exe
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\csc.exe.config
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\csc.rsp
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\csi.exe
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\csi.exe.config
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\csi.rsp
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.AppContext.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Collections.Immutable.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Console.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Diagnostics.Process.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.IO.Compression.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.IO.FileSystem.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.IO.Pipes.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Reflection.Metadata.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.AccessControl.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.Claims.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Threading.Thread.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.ValueTuple.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Xml.XPath.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\vbc.exe
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\vbc.exe.config
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\vbc.rsp
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\VBCSCompiler.exe
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\VBCSCompiler.exe.config
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Microsoft.Web.Infrastructure.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.Common.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.Common.WebHost.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.WebApi.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.WebApi.WebHost.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\SimpleInjector.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\SimpleInjector.Integration.WebApi.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\WebActivator.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\WebActivatorEx.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.Business.dll.config
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.Common.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.Common.WebHost.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.WebApi.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.WebApi.WebHost.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\SimpleInjector.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\SimpleInjector.Integration.WebApi.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\EntityFramework.SqlServer.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\EntityFramework.SqlServer.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Net.Http.Extensions.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Net.Http.Primitives.dll
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Net.Http.Extensions.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Net.Http.Primitives.xml
+C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\obj\Debug\Academy2018.Final.Test.V2.WebAPI2.csproj.App.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.WebAPI2.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.WebAPI2.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.WebAPI2.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\csc.exe
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\csc.exe.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\csc.rsp
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\csi.exe
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\csi.exe.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\csi.rsp
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.AppContext.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Console.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\vbc.exe
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\vbc.exe.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\vbc.rsp
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.Business.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.Data.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\EntityFramework.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\EntityFramework.SqlServer.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Newtonsoft.Json.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.Common.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.WebApi.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\SimpleInjector.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Net.Http.Extensions.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Net.Http.Formatting.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Net.Http.Primitives.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Web.Http.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Web.Http.WebHost.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\WebActivator.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\WebActivatorEx.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.Business.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.Business.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.Data.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.Data.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Academy2018.Final.Test.V2.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\EntityFramework.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\EntityFramework.SqlServer.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Newtonsoft.Json.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.Common.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.WebApi.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\SimpleInjector.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Net.Http.Extensions.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Net.Http.Formatting.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Net.Http.Primitives.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Web.Http.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\bin\System.Web.Http.WebHost.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\obj\Debug\Academy2018.Final.Test.V2.WebAPI2.csproj.App.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\obj\Debug\Academy2018.Final.Test.V2.WebAPI2.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\obj\Debug\Academy2018.Final.Test.V2.WebAPI2.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\obj\Debug\Academy2018.Final.Test.V2.WebAPI2.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.WebAPI2\obj\Debug\Academy2018.Final.Test.V2.WebAPI2.pdb

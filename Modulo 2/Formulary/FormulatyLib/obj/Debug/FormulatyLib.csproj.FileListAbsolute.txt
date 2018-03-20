@@ -1,0 +1,11 @@
+C:\Users\Academia\source\repos\Formulary\FormulatyLib\obj\Debug\FormulatyLib.csproj.CoreCompileInputs.cache
+C:\Users\Academia\source\repos\Formulary\FormulatyLib\bin\Debug\FormulatyLib.dll
+C:\Users\Academia\source\repos\Formulary\FormulatyLib\bin\Debug\FormulatyLib.pdb
+C:\Users\Academia\source\repos\Formulary\FormulatyLib\obj\Debug\FormulatyLib.dll
+C:\Users\Academia\source\repos\Formulary\FormulatyLib\obj\Debug\FormulatyLib.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Formulary\FormulatyLib\bin\Debug\FormulatyLib.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Formulary\FormulatyLib\bin\Debug\FormulatyLib.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Formulary\FormulatyLib\obj\Debug\FormulatyLib.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Formulary\FormulatyLib\obj\Debug\FormulatyLib.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Formulary\FormulatyLib\obj\Debug\FormulatyLib.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Formulary\FormulatyLib\obj\Debug\FormulatyLib.pdb

@@ -1,0 +1,33 @@
+
+
+.Center-text
+{
+  text-align: center;
+  /* border: 2px dashed #f69c55; */
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.Justified
+{
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 5000px,5000px,5000px,5000px;
+}
+
+.rose-gold-backgroud
+{
+    background-color: #F9F0EB;
+}
+
+a
+{ 
+    color: inherit; 
+    
+} 
+
+.space-gray-background
+{
+    color: #F7F7F7;
+    text-align: center;
+    background-color: #1A1A1A;
+}

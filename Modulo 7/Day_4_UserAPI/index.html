@@ -1,0 +1,64 @@
+<html ng-app="AcademyApp">
+
+<head></head>
+
+<body ng-controller="UserController as ctrl">
+    <form action="#" ng-submit="ctrl.SendUser()">
+        <br>
+        <label>IS:</label>
+        <input type="text" ng-model="ctrl.userIs" name="is" id=""></input>
+        <br>
+        <label>First Name:</label>
+        <input type="text" ng-model="ctrl.userFname" name="fname" id=""></input>
+        <br>
+        <label>Last Name:</label>
+        <input type="text" ng-model="ctrl.userLname" name="lname" id=""></input>
+        <br>
+        <label>Second Last Name:</label>
+        <input type="text" ng-model="ctrl.userSlname" name="slname" id=""></input>
+        <br>
+        <label>Time:</label>
+        <input type="text" ng-model="ctrl.userTime" name="time" id=""></input>
+        <br>
+        <label>Grade:</label>
+        <input type="text" ng-model="ctrl.userGrade" name="grade" id=""></input>
+        <input type="submit" value="Send"></input>
+    </form>
+
+    <form action="#" ng-submit="ctrl.UpdateUser()">
+        <input type="text" ng-model="ctrl.updateID" name="id" id=""></input>
+        <input type="submit" value="Send"></input> Update
+    </form>
+
+    <!-- <form action="#" ng-submit="ctrl.searchUser()">
+        <input type="text" ng-model="ctrl.searchID" name="id" id=""></input>
+        <input type="submit" value="Send"></input> Get by ID
+        <li>IS:{{ctrl.searchedUser.is}}</li>
+        <li>First Name:{{user.first_name}}</li>
+        <li>Last Name:{{user.last_name}}</li>
+        <li>Second Last Name:{{user.second_last_name}}</li>
+        <li>Hour:{{user.second_last_name}}</li>
+        <li>Id:{{user.id}}</li>
+    </form> -->
+
+    <form action="#" ng-submit="ctrl.DeleteUser()">
+        <input type="text" ng-model="ctrl.deleteID" name="id" id=""></input>
+        <input type="submit" value="Send"></input> Delete
+    </form>
+
+    <section ng-repeat="user in myData">
+        <ul>
+            <li>IS:{{user.is}}</li>
+            <li>First Name:{{user.first_name}}</li>
+            <li>Last Name:{{user.last_name}}</li>
+            <li>Second Last Name:{{user.second_last_name}}</li>
+            <li>Hour:{{user.second_last_name}}</li>
+            <li>Id:{{user.id}}</li>
+        </ul>
+    </section>
+
+    <script src="./angular.js"></script>
+    <script src="./user-list/user-list.component.js"></script>
+</body>
+
+</html>

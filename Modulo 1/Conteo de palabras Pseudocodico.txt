@@ -1,0 +1,76 @@
+
+Pseudo codigo para determinar las 3 palabras mas repetidas en un texto y su número de instancias.
+
+espacio <- " "
+var arregloDeCadenas = split(Texto,espacio)
+
+función bucket-sort(arregloDeCadenas, 26) 
+  ListaLetras[] <- colección de 26 letras // hacemos un arreglo con las 16 letras del abecedario -> a-z
+
+    int posicion <- 0, iteracion <- 0
+
+    para i = 0 hasta longitud(ListaLetras) hacer //Hacemos una lista de letras para cada casillero pero poder comparar el los caracteres de cada palabra 
+    {
+        casillero[i] = ListaLetras[]
+    }
+
+    para i = 0 hasta longitud(arregloDeCadenas) + 1  hacer
+    {
+        c <- i + "a"
+        
+        si(DiferenciaCaracter(arregloDeCadenas[i], posicion) == c) 
+            insertar arregloDeCadenas[i] en casillero[c]
+        fin para
+    }    
+
+    Ejecuta 
+    {
+        si ( comparacadena(casillero[i], casillero[i+1]) )
+        {
+            temp[i] <- casillero[i]
+        }
+    }mientras casillero[i+1] == "\0"
+
+    
+    para 1 = 0 hasta casillero[i] != "\0"
+    {
+        temp[] = split(casillero[i], " ")
+            si ( comparacadena(temp[i], temp[i+1]) )
+                int igualdad++
+            si no si (igualdad > repetida1)
+            {
+                repetida3 = repetida2
+                temp2[3] = temp2[2]
+                repetida2 = repetida1
+                temp2[2] = temp2[1]
+                repetida1 = igualdad
+                temp2[1] = temp[i]
+            }
+                
+            si no si (igualdad > repetida2)
+            {
+                repetida3 = repetida2
+                temp2[3] = temp2[2]
+                repetida2 = igualdad
+                temp2[2] = temp[i]
+            }
+
+            si no si (igualdad > repetida3)
+            {
+                repetida3 = igualdad
+                temp2[1] = temp[i]
+            }
+
+            imprime las palabras más repetidas son 
+            imprime salto de linea
+            imprime arreglo(temp2, "\")
+    }
+    
+
+  char DiferenciaCaracter(string palabra, int posicion)
+  {
+      char Caracter <- (palabra% (longitud(palabra) - posicion) )*10
+
+      regresa Caracter 
+  }
+  

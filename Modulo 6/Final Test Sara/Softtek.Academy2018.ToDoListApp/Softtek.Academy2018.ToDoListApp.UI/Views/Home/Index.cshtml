@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1 class="display-3">To-Do List</h1><br />
+    <p class="lead">Are you ready to get organized?.</p>
+    <hr class="my-4">
+    <p>We are pleasantly happy to help you.</p><br />
+    <p class="lead">
+        @Html.ActionLink("I'm ready!", "ItemManager", "Item", new { @class = "btn btn-primary btn-lg" }, null)
+    </p>
+</div>

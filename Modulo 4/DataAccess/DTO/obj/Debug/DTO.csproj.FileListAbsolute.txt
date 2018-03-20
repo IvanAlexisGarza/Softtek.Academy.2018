@@ -1,0 +1,11 @@
+C:\Users\Academia\source\repos\DataAccess\DTO\bin\Debug\DTO.dll
+C:\Users\Academia\source\repos\DataAccess\DTO\bin\Debug\DTO.pdb
+C:\Users\Academia\source\repos\DataAccess\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Academia\source\repos\DataAccess\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Academia\source\repos\DataAccess\DTO\obj\Debug\DTO.dll
+C:\Users\Academia\source\repos\DataAccess\DTO\obj\Debug\DTO.pdb
+C:\Users\Academia\source\repos\DataAccess\DTO\bin\Debug\DTO.dll.config
+C:\Users\Academia\source\repos\DataAccess\DTO\bin\Debug\EntityFramework.dll
+C:\Users\Academia\source\repos\DataAccess\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Academia\source\repos\DataAccess\DTO\bin\Debug\EntityFramework.xml
+C:\Users\Academia\source\repos\DataAccess\DTO\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,34 @@
+<!doctype html>
+<html ng-app="surveyApp" ng-strict-di>
+  <head>
+  </head>
+  <body ng-controller='SurveyController as ctrl'>      
+    <div>
+      <label>Name:</label>
+
+      <form ng-submit="ctrl.createQuestion()">
+          <input type="text" ng-model="ctrl.newQuestion" placeholder="Enter a question here">
+            <input type="submit" value="create">
+      </form>
+
+      <hr>
+      <section class="question-list" ng-repeat="question in ctrl.questions track by $index">
+        <h2>{{question.name}}</h2>
+        <form>
+            <input type="text" name="" id="" required="required">
+            <input type="button" value="add new">
+        </form>
+            <ul>
+              <li ng-repeat = "option in question.options track by $index">
+                <form ng-submit="ctrl.AddOption(question)">
+                  <input type="radio" name="" id="">{{option.name}}
+                 <button ng-click="ctrl.remove(question, $index)"> Delete </button>
+                </form>
+              </li>
+            </ul>
+      </section>
+
+    <script src="./angular.js"></script>
+    <script src="./scriptangular.js"></script>
+  </body>
+</html>

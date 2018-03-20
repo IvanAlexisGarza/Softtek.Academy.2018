@@ -1,0 +1,156 @@
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.WebAPI.dll.config
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.WebAPI.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.WebAPI.pdb
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\csc.exe
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\csc.exe.config
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\csc.rsp
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\csi.exe
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\csi.exe.config
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\csi.rsp
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Console.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\vbc.exe
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\vbc.rsp
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\EntityFramework.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academia2018.ToDoListApp.DTO.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Business.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Data.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Domain.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\System.Web.Http.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academia2018.ToDoListApp.DTO.pdb
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Business.pdb
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Data.pdb
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Data.dll.config
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Domain.pdb
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\EntityFramework.xml
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\System.Web.Http.xml
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\obj\Debug\Softtek.Academy2018.ToDoListApp.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\obj\Debug\Softtek.Academy2018.ToDoListApp.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\obj\Debug\Softtek.Academy2018.ToDoListApp.WebAPI.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\obj\Debug\Softtek.Academy2018.ToDoListApp.WebAPI.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.WebAPI.dll.config
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.WebAPI.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.WebAPI.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\csc.exe
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\csc.exe.config
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\csc.rsp
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\csi.exe
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\csi.exe.config
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\csi.rsp
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Console.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\vbc.exe
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\vbc.rsp
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\EntityFramework.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academia2018.ToDoListApp.DTO.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Business.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Data.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Domain.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\System.Web.Http.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academia2018.ToDoListApp.DTO.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Business.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Data.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Data.dll.config
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Softtek.Academy2018.ToDoListApp.Domain.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\EntityFramework.xml
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\System.Web.Http.xml
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\obj\Debug\Softtek.Academy2018.ToDoListApp.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\obj\Debug\Softtek.Academy2018.ToDoListApp.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\obj\Debug\Softtek.Academy2018.ToDoListApp.WebAPI.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.WebAPI\obj\Debug\Softtek.Academy2018.ToDoListApp.WebAPI.pdb

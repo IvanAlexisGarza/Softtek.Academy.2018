@@ -1,0 +1,38 @@
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.WCF.dll.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.WCF.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.WCF.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\EntityFramework.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\EntityFramework.SqlServer.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Business.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Data.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Domain.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Business.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Data.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Data.dll.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Domain.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\EntityFramework.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\EntityFramework.SqlServer.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\obj\Debug\Softtek.Academy2018.Demo.WCF.csprojResolveAssemblyReference.cache
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\obj\Debug\Softtek.Academy2018.Demo.WCF.csproj.CoreCompileInputs.cache
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\obj\Debug\Softtek.Academy2018.Demo.WCF.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\obj\Debug\Softtek.Academy2018.Demo.WCF.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.WCF.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.WCF.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.WCF.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\EntityFramework.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\EntityFramework.SqlServer.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Business.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Data.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Domain.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Business.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Data.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Data.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Softtek.Academy2018.Demo.Domain.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\EntityFramework.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\EntityFramework.SqlServer.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\obj\Debug\Softtek.Academy2018.Demo.WCF.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\obj\Debug\Softtek.Academy2018.Demo.WCF.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\obj\Debug\Softtek.Academy2018.Demo.WCF.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\obj\Debug\Softtek.Academy2018.Demo.WCF.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Ninject.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 6\UserManagement_Demo\Softtek.Academy2018.Demo.WCF\bin\Ninject.xml

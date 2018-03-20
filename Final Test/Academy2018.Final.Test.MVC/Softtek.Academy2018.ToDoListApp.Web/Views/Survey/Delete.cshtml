@@ -1,0 +1,22 @@
+﻿@model Softtek.Academy2018.ToDoListApp.Web.ViewModels.SurveyViewModel
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Cancel","Survey"))
+{
+    <h3>Are you sure you want to delete this survey?</h3>
+
+    <button name="submit" type="submit" class="btn btn-primary" value="yes">Yes</button>
+
+    <button name="submit" type="submit" class="btn btn-primary" value="no">No</button>
+
+}
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+

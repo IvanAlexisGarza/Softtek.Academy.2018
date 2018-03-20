@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A8410B7-3074-46CA-9A6A-C7B226B217C1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EFLibrary</RootNamespace>
+    <AssemblyName>EFLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Entity.Design" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configurations\ItemConfiguration.cs" />
+    <Compile Include="Configurations\TagConfiguration.cs" />
+    <Compile Include="DTO\ItemInfoDTO.cs" />
+    <Compile Include="DTO\PriorityNamesDTO.cs" />
+    <Compile Include="DTO\StatusNamesDTO.cs" />
+    <Compile Include="DTO\TagDTO.cs" />
+    <Compile Include="Entities\ItemInfo.cs" />
+    <Compile Include="Entities\PriorityNames.cs" />
+    <Compile Include="Entities\StatusNames.cs" />
+    <Compile Include="Entities\Tag.cs" />
+    <Compile Include="Helper\DataConverter.cs" />
+    <Compile Include="Helper\DemoContext.cs" />
+    <Compile Include="Helper\DemoInitializer.cs" />
+    <Compile Include="Implementation\ItemEF.cs" />
+    <Compile Include="Implementation\TagEF.cs" />
+    <Compile Include="Interfaces\IRepository.cs" />
+    <Compile Include="Migrations\201802140312045_InitialCreate.cs" />
+    <Compile Include="Migrations\201802140312045_InitialCreate.Designer.cs">
+      <DependentUpon>201802140312045_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201802140423385_ItemTags.cs" />
+    <Compile Include="Migrations\201802140423385_ItemTags.Designer.cs">
+      <DependentUpon>201802140423385_ItemTags.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201802140448466_Tag Relationships.cs" />
+    <Compile Include="Migrations\201802140448466_Tag Relationships.Designer.cs">
+      <DependentUpon>201802140448466_Tag Relationships.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201802140500103_Last Migration.cs" />
+    <Compile Include="Migrations\201802140500103_Last Migration.Designer.cs">
+      <DependentUpon>201802140500103_Last Migration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201802140502026_Last last.cs" />
+    <Compile Include="Migrations\201802140502026_Last last.Designer.cs">
+      <DependentUpon>201802140502026_Last last.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201802140312045_InitialCreate.resx">
+      <DependentUpon>201802140312045_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802140423385_ItemTags.resx">
+      <DependentUpon>201802140423385_ItemTags.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802140448466_Tag Relationships.resx">
+      <DependentUpon>201802140448466_Tag Relationships.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802140500103_Last Migration.resx">
+      <DependentUpon>201802140500103_Last Migration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802140502026_Last last.resx">
+      <DependentUpon>201802140502026_Last last.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

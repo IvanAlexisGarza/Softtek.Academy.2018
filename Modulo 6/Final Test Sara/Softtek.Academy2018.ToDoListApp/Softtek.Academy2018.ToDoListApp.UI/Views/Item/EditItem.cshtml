@@ -1,0 +1,18 @@
+﻿@model Softtek.Academia2018.ToDoListApp.DTO.ItemDTO
+
+@{
+    ViewBag.Title = "Edit To-Do";
+}
+
+<h3>Edit To-Do</h3>
+
+@using (Html.BeginForm("EditItem", "Item", FormMethod.Post))
+{
+    @Html.ValidationSummary()
+    @Html.Partial("_ItemFields", Model)
+
+    <div class="right">
+        <input class="btn btn-primary" type="submit" value="Save Changes" />
+        @*<input class="btn btn-secondary" id="draft" value="Save as Draft" />*@
+    </div>
+}

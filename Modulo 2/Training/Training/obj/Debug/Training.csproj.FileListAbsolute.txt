@@ -1,0 +1,2 @@
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Training\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\C#\Training\Training\obj\Debug\Training.csproj.CoreCompileInputs.cache

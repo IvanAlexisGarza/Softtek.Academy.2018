@@ -1,0 +1,17 @@
+
+
+.Center-text
+{
+      height: 90px;
+  line-height: 90px;
+  text-align: center;
+  /* border: 2px dashed #f69c55; */
+  font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+  
+}
+.Justified
+{
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 5000px,5000px,5000px,5000px;
+}

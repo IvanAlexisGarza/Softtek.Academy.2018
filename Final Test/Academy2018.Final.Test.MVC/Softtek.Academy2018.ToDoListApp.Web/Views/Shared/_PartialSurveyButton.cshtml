@@ -1,0 +1,18 @@
+﻿
+@model Softtek.Academy2018.ToDoListApp.Web.Models.PartialButton
+@using Softtek.Academy2018.ToDoListApp.Web.Models
+
+<td style="width:400px">
+    <div class="btn-group" role="group">
+
+        @Html.Partial("_ButtonProperties", new PartialButton
+   {
+       Action = "List",
+       ButtonType = "btn-primary",
+       GlyphIcon = "plus",
+       Id = Model.Id
+   })
+
+    </div>
+</td>
+

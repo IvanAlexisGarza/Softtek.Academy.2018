@@ -1,0 +1,26 @@
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\Softtek.Academy2018.Demo.Console.exe.config
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\Softtek.Academy2018.Demo.Console.exe
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\Softtek.Academy2018.Demo.Console.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\EntityFramework.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\Ninject.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\EntityFramework.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\Ninject.xml
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\obj\Debug\Softtek.Academy2018.Demo.Console.csprojResolveAssemblyReference.cache
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\obj\Debug\Softtek.Academy2018.Demo.Console.csproj.CoreCompileInputs.cache
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\obj\Debug\Softtek.Academy2018.Demo.Console.exe
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Console\obj\Debug\Softtek.Academy2018.Demo.Console.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\Softtek.Academy2018.Demo.Console.exe.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\Softtek.Academy2018.Demo.Console.exe
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\Softtek.Academy2018.Demo.Console.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\EntityFramework.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\Ninject.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\EntityFramework.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\bin\Debug\Ninject.xml
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\obj\Debug\Softtek.Academy2018.Demo.Console.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\obj\Debug\Softtek.Academy2018.Demo.Console.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\obj\Debug\Softtek.Academy2018.Demo.Console.exe
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Console\obj\Debug\Softtek.Academy2018.Demo.Console.pdb

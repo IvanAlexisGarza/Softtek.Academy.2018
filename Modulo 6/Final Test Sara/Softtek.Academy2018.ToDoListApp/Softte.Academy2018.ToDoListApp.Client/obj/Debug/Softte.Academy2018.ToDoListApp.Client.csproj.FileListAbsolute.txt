@@ -1,0 +1,28 @@
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Softte.Academy2018.ToDoListApp.Client.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Softte.Academy2018.ToDoListApp.Client.pdb
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Softtek.Academia2018.ToDoListApp.DTO.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Softtek.Academy2018.ToDoListApp.Domain.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Softtek.Academia2018.ToDoListApp.DTO.pdb
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Softtek.Academy2018.ToDoListApp.Domain.pdb
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\obj\Debug\Softte.Academy2018.ToDoListApp.Client.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\obj\Debug\Softte.Academy2018.ToDoListApp.Client.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\obj\Debug\Softte.Academy2018.ToDoListApp.Client.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\obj\Debug\Softte.Academy2018.ToDoListApp.Client.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Softte.Academy2018.ToDoListApp.Client.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Softte.Academy2018.ToDoListApp.Client.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Softtek.Academia2018.ToDoListApp.DTO.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Softtek.Academy2018.ToDoListApp.Domain.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Softtek.Academia2018.ToDoListApp.DTO.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\bin\Debug\Softtek.Academy2018.ToDoListApp.Domain.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\obj\Debug\Softte.Academy2018.ToDoListApp.Client.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\obj\Debug\Softte.Academy2018.ToDoListApp.Client.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\obj\Debug\Softte.Academy2018.ToDoListApp.Client.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softte.Academy2018.ToDoListApp.Client\obj\Debug\Softte.Academy2018.ToDoListApp.Client.csprojResolveAssemblyReference.cache

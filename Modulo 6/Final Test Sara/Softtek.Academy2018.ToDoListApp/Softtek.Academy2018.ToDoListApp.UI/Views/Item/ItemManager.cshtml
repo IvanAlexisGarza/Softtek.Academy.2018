@@ -1,0 +1,44 @@
+﻿@model List<Softtek.Academia2018.ToDoListApp.DTO.ItemDTO>
+@using GridMvc.Html
+
+@{
+    ViewBag.Title = "My To-Do List";
+}
+
+<h3>My To-Do List</h3>
+<br />
+
+<div>
+    <input type="button" class="btn btn-primary rigth" value="+ New To-Do.." onclick="location.href='@Url.Action("AddItem", "Item")'" />
+</div>
+
+<div class="code-cut">
+    @Html.Grid(Model).Columns(columns =>
+{
+    columns.Add(c => c.Title).Filterable(true);
+    columns.Add(c => c.Description).Filterable(true);
+    columns.Add(c => c.StatusId).Titled("Status").Filterable(true);
+    columns.Add(c => c.DueDate).Filterable(true).SortInitialDirection(GridMvc.Sorting.GridSortDirection.Ascending);
+    columns.Add()
+        .Encoded(false)
+        .Sanitized(false)
+        .SetWidth(30)
+        .RenderValueAs(o => Html.ActionLink("Edit", "EditItem", "Item", new { id = o.Id }, null));        
+    columns.Add()
+        .Encoded(false)
+        .Sanitized(false)
+        .SetWidth(30)
+        .RenderValueAs(o => Html.ActionLink("Details", "Item", new { id = o.Id }));
+    columns.Add()
+        .Encoded(false)
+        .Sanitized(false)
+        .SetWidth(30)
+        .RenderValueAs(o => Html.ActionLink("Delete", "Item", new { id = o.Id }));
+        }).WithPaging(10).Sortable(true)
+</div>  
+
+<script>
+    if (@TempData["message"] != null{
+        alert(@TempData["message"]);
+    }
+</script>

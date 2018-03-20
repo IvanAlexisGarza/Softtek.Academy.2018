@@ -1,0 +1,26 @@
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Business.dll
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Business.pdb
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Data.dll
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Domain.dll
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Data.pdb
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Data.dll.config
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Domain.pdb
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\EntityFramework.xml
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\obj\Debug\Softtek.Academy2018.ToDoListApp.Business.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\obj\Debug\Softtek.Academy2018.ToDoListApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\obj\Debug\Softtek.Academy2018.ToDoListApp.Business.dll
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\obj\Debug\Softtek.Academy2018.ToDoListApp.Business.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\obj\Debug\Softtek.Academy2018.ToDoListApp.Business.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\obj\Debug\Softtek.Academy2018.ToDoListApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\obj\Debug\Softtek.Academy2018.ToDoListApp.Business.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\obj\Debug\Softtek.Academy2018.ToDoListApp.Business.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Business.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Business.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Data.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Domain.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Data.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Data.dll.config
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\Softtek.Academy2018.ToDoListApp.Domain.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Business\bin\Debug\EntityFramework.xml

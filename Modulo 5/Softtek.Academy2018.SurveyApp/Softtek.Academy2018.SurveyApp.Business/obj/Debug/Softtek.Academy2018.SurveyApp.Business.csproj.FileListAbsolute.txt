@@ -1,0 +1,13 @@
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\obj\Debug\Softtek.Academy2018.SurveyApp.Business.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\obj\Debug\Softtek.Academy2018.SurveyApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\bin\Debug\Softtek.Academy2018.SurveyApp.Business.dll
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\bin\Debug\Softtek.Academy2018.SurveyApp.Business.pdb
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\bin\Debug\Softtek.Academy2018.SurveyApp.Data.dll
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\bin\Debug\Softtek.Academy2018.SurveyApp.Domain.dll
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\bin\Debug\Softtek.Academy2018.SurveyApp.Data.pdb
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\bin\Debug\Softtek.Academy2018.SurveyApp.Data.dll.config
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\bin\Debug\Softtek.Academy2018.SurveyApp.Domain.pdb
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\bin\Debug\EntityFramework.xml
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\obj\Debug\Softtek.Academy2018.SurveyApp.Business.dll
+C:\Users\Academia\Documents\Repository\PonchExmpl\WebService_Labs\Softtek.Academy2018.SurveyApp\Softtek.Academy2018.SurveyApp.Business\obj\Debug\Softtek.Academy2018.SurveyApp.Business.pdb

@@ -1,0 +1,13 @@
+﻿@model Softtek.Academy2018.ToDoListApp.Web.ViewModels.SurveyViewModel
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Item Details</h2>
+<ul>
+    <li><strong>Title: </strong> @Model.Title</li>
+    <li><strong>Description: </strong> @Model.Description</li>
+    <li><strong>Status: </strong>@Model.Status</li>
+    <li><strong>Questions: </strong>@Model.Questions</li>
+</ul>

@@ -1,0 +1,50 @@
+<html ng-app="AcademyApp">
+
+<link rel="stylesheet" type="text/css" href="./style.css">
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+
+<head></head>
+<h1> Team Pap's Form </h1>
+<p>Connect to Softtek 2018 .NET súper Academy firebase and test your Http Skills </p>
+<body ng-controller="UserController as ctrl">
+    <form action="#" ng-submit="ctrl.SendUser()">
+        <br>
+        <label>IS:</label>
+        <input type="text" ng-model="ctrl.userIs" name="is" id=""></input>
+        <br>
+        <label>First Name:</label>
+        <input type="text" ng-model="ctrl.userFname" name="fname" id=""></input>
+        <br>
+        <label>Last Name:</label>
+        <input type="text" ng-model="ctrl.userLname" name="lname" id=""></input>
+        <br>
+        <label>Second Last Name:</label>
+        <input type="text" ng-model="ctrl.userSlname" name="slname" id=""></input>
+        <br>
+        <label>Time:</label>
+        <input type="text" ng-model="ctrl.userTime" name="time" id=""></input>
+        <br>
+        <label>Grade:</label>
+        <input type="text" ng-model="ctrl.userGrade" name="grade" id=""></input>
+        <input type="submit" class="costum-button"value="Send"></input>
+    </form>
+
+    <form action="#" ng-submit="ctrl.UpdateUser()">
+        <input type="submit" class="costum-button" value="Update"></input> 
+    </form>
+
+    <form action="#" ng-submit="ctrl.DeleteUser()">
+        <input type="submit"class="costum-button-danger" value="Delete"></input> 
+    </form>
+
+    <ul>
+        <li ng-repeat="user in ctrl.users track by $index">
+            <span>{{user.fname}}</span>
+        </li>
+    </ul>
+
+    <script src="./angular.js"></script>
+    <script src="./user-list/user-list.component.js"></script>
+</body>
+
+</html>

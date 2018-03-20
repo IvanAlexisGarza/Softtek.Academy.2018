@@ -1,0 +1,35 @@
+﻿@model Softtek.Academia2018.ToDoListApp.DTO.ItemDTO
+
+@{
+    ViewBag.Title = "New To-Do";
+}
+
+<h3>New To-Do</h3>
+
+@using (Html.BeginForm("AddItem", "Item", FormMethod.Post))
+{
+    @Html.ValidationSummary()
+    @Html.Partial("_ItemFields")
+
+    <div class="right">
+        <input class="btn btn-primary" type="submit" value="Save" />
+        @*<input class="btn btn-secondary" id="draft" value="Save as Draft" />*@
+    </div>
+}
+
+@*<script>
+    $('#draft').click(function () {
+        //var model = {
+        //    Title: "Title",
+        //    Description: "Description",
+        //    StatusId: 1
+        //};
+
+        $.ajax({
+            type: "POST",
+            data: JSON.stringify(model),
+            url: @Html.Action("AddItem","Item"),
+            contentType: "application/json"
+        })
+    }
+</script>*@

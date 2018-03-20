@@ -1,0 +1,11 @@
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Domain\bin\Debug\Softtek.Academy2018.Demo.Domain.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Domain\bin\Debug\Softtek.Academy2018.Demo.Domain.pdb
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Domain\obj\Debug\Softtek.Academy2018.Demo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Domain\obj\Debug\Softtek.Academy2018.Demo.Domain.dll
+C:\Users\SupaG\Documents\Repository\ivan_garza\UserManagement_Demo\Softtek.Academy2018.Demo.Domain\obj\Debug\Softtek.Academy2018.Demo.Domain.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Domain\bin\Debug\Softtek.Academy2018.Demo.Domain.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Domain\bin\Debug\Softtek.Academy2018.Demo.Domain.pdb
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Domain\obj\Debug\Softtek.Academy2018.Demo.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Domain\obj\Debug\Softtek.Academy2018.Demo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Domain\obj\Debug\Softtek.Academy2018.Demo.Domain.dll
+C:\Users\Academia\Documents\Repository\ivan_garza\Modulo 5\UserManagement_Demo\Softtek.Academy2018.Demo.Domain\obj\Debug\Softtek.Academy2018.Demo.Domain.pdb

@@ -1,0 +1,33 @@
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\Softtek.Academy2018.ToDoListApp.Data.dll.config
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\Softtek.Academy2018.ToDoListApp.Data.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\Softtek.Academy2018.ToDoListApp.Data.pdb
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\EntityFramework.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\Softtek.Academy2018.ToDoListApp.Domain.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\Softtek.Academy2018.ToDoListApp.Domain.pdb
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\EntityFramework.xml
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.Migrations.init.resources
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.Migrations.schema_changes_init_config.resources
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.csproj.GenerateResource.Cache
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.dll
+C:\Users\Academia\Documents\ToDoApp\WebService_Labs\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\Softtek.Academy2018.ToDoListApp.Data.dll.config
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\Softtek.Academy2018.ToDoListApp.Data.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\Softtek.Academy2018.ToDoListApp.Data.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\EntityFramework.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\Softtek.Academy2018.ToDoListApp.Domain.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\Softtek.Academy2018.ToDoListApp.Domain.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\EntityFramework.xml
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.Migrations.init.resources
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.Migrations.schema_changes_init_config.resources
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.Migrations.TagSeed.resources
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.csproj.GenerateResource.Cache
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.dll
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.pdb
+C:\Users\Academia\Documents\Repositorio\sara_rodriguez\MVC Exam\Softtek.Academy2018.ToDoListApp\Softtek.Academy2018.ToDoListApp.Data\obj\Debug\Softtek.Academy2018.ToDoListApp.Data.csprojResolveAssemblyReference.cache

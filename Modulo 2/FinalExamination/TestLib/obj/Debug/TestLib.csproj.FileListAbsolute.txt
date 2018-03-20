@@ -1,0 +1,6 @@
+C:\Users\cudti\Downloads\ivan_garza-master-9a3101fb3baeff351c9f1c81497abb92c0e77199\ivan_garza-master-9a3101fb3baeff351c9f1c81497abb92c0e77199\C#\FinalExamination\TestLib\obj\Debug\TestLib.csproj.CoreCompileInputs.cache
+C:\Users\cudti\Downloads\ivan_garza-master-9a3101fb3baeff351c9f1c81497abb92c0e77199\ivan_garza-master-9a3101fb3baeff351c9f1c81497abb92c0e77199\C#\FinalExamination\TestLib\bin\Debug\TestLib.dll
+C:\Users\cudti\Downloads\ivan_garza-master-9a3101fb3baeff351c9f1c81497abb92c0e77199\ivan_garza-master-9a3101fb3baeff351c9f1c81497abb92c0e77199\C#\FinalExamination\TestLib\bin\Debug\TestLib.pdb
+C:\Users\cudti\Downloads\ivan_garza-master-9a3101fb3baeff351c9f1c81497abb92c0e77199\ivan_garza-master-9a3101fb3baeff351c9f1c81497abb92c0e77199\C#\FinalExamination\TestLib\obj\Debug\TestLib.dll
+C:\Users\cudti\Downloads\ivan_garza-master-9a3101fb3baeff351c9f1c81497abb92c0e77199\ivan_garza-master-9a3101fb3baeff351c9f1c81497abb92c0e77199\C#\FinalExamination\TestLib\obj\Debug\TestLib.pdb
+C:\Users\cudti\Downloads\ivan_garza-master-9a3101fb3baeff351c9f1c81497abb92c0e77199\ivan_garza-master-9a3101fb3baeff351c9f1c81497abb92c0e77199\C#\FinalExamination\TestLib\obj\Debug\TestLib.csprojResolveAssemblyReference.cache

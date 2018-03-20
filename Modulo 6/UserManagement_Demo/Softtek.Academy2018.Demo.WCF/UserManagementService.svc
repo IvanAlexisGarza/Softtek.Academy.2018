@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Softtek.Academy2018.Demo.WCF.UserManagementService" CodeBehind="UserManagementService.svc.cs" %>

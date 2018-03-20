@@ -1,0 +1,47 @@
+﻿@model  Softtek.Academy2018.Demo.Domain.Model.User
+@{
+    ViewBag.Title = "New";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Add a new user</h2>
+@*Helper que ayuda a iniciar una forma, ya que es disposable podemos utilizar using*@
+@using (Html.BeginForm("Save", "User"))
+{
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.IS)
+        @*De esta forma modificamos el modo que en que se muestra nuestra fecha*@
+        @Html.TextBoxFor(x => x.IS, "{0:d MMM yyyy}", new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.IS)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.FirstName)
+        @Html.TextBoxFor(x => x.FirstName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.FirstName)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.LastName)
+        @Html.TextBoxFor(x => x.LastName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.LastName)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.Salary)
+        @Html.TextBoxFor(x => x.Salary, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.Salary)
+    </div>
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(x => x.IsActive) Is Active?
+        </label>
+    </div>
+    //Si no ponemos este valor aqui se considerara null en el controller
+    @Html.HiddenFor(x => x.Id);
+    @Html.AntiForgeryToken();
+    <button type="submit" class="btn btn-primary">
+        Save
+    </button>
+}
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}
