@@ -21,6 +21,8 @@ namespace Academy2018.Final.Test.V2.Data.Contracts
 
         bool DeactivateSurvey(int surveyId);
 
+        bool UpdateSurvey(Survey survey);
+
         ICollection<Question> GetQuestionsBySurvey(int surveyId);
     }
 }

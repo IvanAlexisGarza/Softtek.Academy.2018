@@ -14,6 +14,6 @@ namespace Academy2018.Final.Test.V2.WebAPI2.Models
 
         public bool IsActive { get; set; }
 
-        public int StatusId { get; set; }
+        public Status Status { get; set; }
     }
 }

@@ -1,0 +1,19 @@
+﻿@model Softtek.Academy2018.ToDoListApp.Web.Models.SurveyDTO
+@using Softtek.Academy2018.ToDoListApp.Web.Models
+
+<a type="button"
+   class="btn btn-primary btn-sm"
+   href="@Url.Action("Edit", new { id = Model.Id})">
+    <span class="glyphicon glyphicon-pencil"></span>
+</a>
+<a type="button"
+   class="btn btn-primary btn-sm"
+   href="@Url.Action("Questions", new { id = Model.Id})">
+    <span class="glyphicon glyphicon-plus-sign"></span>
+</a>
+<a type="button"
+   class="btn btn-primary btn-sm"
+   href="@Url.Action("Delete", new { id = Model.Id})">
+    <span class="glyphicon glyphicon-trash"></span>
+</a>
+

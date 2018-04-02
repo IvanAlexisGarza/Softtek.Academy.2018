@@ -49,6 +49,11 @@ namespace Academy2018.Final.Test.Business.Implementation
 
         }
 
+        public bool UpdateSurvey(Survey survey)
+        {
+            return _surveyRepository.UpdateSurvey(survey);
+        }
+
         public bool ChangeStatus(int surveyId, int newStatus)
         {
             Survey surveyInDb = _surveyRepository.GetById(surveyId);

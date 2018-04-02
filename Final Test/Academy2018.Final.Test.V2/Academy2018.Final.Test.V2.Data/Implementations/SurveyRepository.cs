@@ -12,6 +12,7 @@ namespace Academy2018.Final.Test.V2.Data.Implementations
 {
     public class SurveyRepository : ISurveyRepository
     {
+
         public bool ActivateSurvey(int surveyId)
         {
             using (var context = new SurveyContext())
@@ -48,13 +49,10 @@ namespace Academy2018.Final.Test.V2.Data.Implementations
             using (var context = new SurveyContext())
             {
                 Survey surveyInDb = GetById(surveyId);
+
                 if (surveyInDb == null) return false;
 
-                //Status moddedStatus = new Status
-                //{
-                //    Id = newStatus
-                //};
-                surveyInDb.Status = context.Status.Where(x => x.Id == newStatus).FirstOrDefault();
+                surveyInDb.Status = (Status)newStatus;
 
                 context.SaveChanges();
                 return true;
@@ -75,7 +73,8 @@ namespace Academy2018.Final.Test.V2.Data.Implementations
         {
             using (var context = new SurveyContext())
             {
-                survey.Status = context.Status.Where(x => x.Description == "Draft").FirstOrDefault();
+
+                survey.Status = (Status)2;//Draft
                 context.Surveys.Add(survey);
                 context.SaveChanges();
                 return survey.Id;
@@ -104,6 +103,25 @@ namespace Academy2018.Final.Test.V2.Data.Implementations
                     return false;
                 else
                     return true;
+            }
+        }
+
+        public bool UpdateSurvey(Survey survey)
+        {
+            using (var context = new SurveyContext())
+            {
+                Survey surveyInDb = context.Surveys.Where(x => x.Id == survey.Id).FirstOrDefault();
+
+                if (surveyInDb == null) return false;
+
+                surveyInDb.Id = survey.Id;
+                surveyInDb.Title = survey.Title;
+                surveyInDb.Description = survey.Description;
+                surveyInDb.IsActive = survey.IsActive;
+
+                context.SaveChanges();
+
+                return true;
             }
         }
 

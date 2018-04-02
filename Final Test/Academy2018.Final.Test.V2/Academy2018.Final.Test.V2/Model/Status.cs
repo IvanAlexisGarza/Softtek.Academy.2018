@@ -6,15 +6,12 @@ using System.Threading.Tasks;
 
 namespace Academy2018.Final.Test.V2.Domain.Model
 {
-    public class Status : Entity
+    public enum Status
     {
-        public string Description { get; set; }
-
-        public virtual ICollection<Survey> Surveys { get; set; }
-
-        public Status()
-        {
-            Surveys = new HashSet<Survey>();
-        }
+        Draft,
+        Ready,
+        Done,
+        Cancel
     }
+
 }

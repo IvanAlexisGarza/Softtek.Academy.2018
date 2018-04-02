@@ -24,8 +24,6 @@ namespace Academy2018.Final.Test.V2.Data
 
         public DbSet<QuestionType> QuestionTypes { get; set; }
 
-        public DbSet<Status> Status { get; set; }
-
         //public DbSet<AnsweredSurvey> AnsweredSurveys { get; set; }
         //This is a nice to have left for when i finish
     }

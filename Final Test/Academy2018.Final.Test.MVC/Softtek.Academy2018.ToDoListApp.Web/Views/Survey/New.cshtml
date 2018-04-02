@@ -1,4 +1,4 @@
-﻿@model Softtek.Academy2018.ToDoListApp.Web.ViewModels.SurveyViewModel
+﻿@model Softtek.Academy2018.ToDoListApp.Web.Models.SurveyDTO
 @using Softtek.Academy2018.ToDoListApp.Web.Models
 @{
     ViewBag.Title = "New";
@@ -14,7 +14,7 @@ else
     <h2>Update survey</h2>
 }
 
-@using (Html.BeginForm(Model.Action,"Survey"))
+@using (Html.BeginForm("Save", "Survey"))
 {
     <div class="form-group">
         @Html.LabelFor(i => i.Title)
@@ -31,14 +31,14 @@ else
 
     @Html.ActionLink("Add Questions", "List", "Question")
     
-    <br />
-    <br />
+    <br/>
+    <br/>
 
     @Html.AntiForgeryToken()
 
     @Html.HiddenFor(x => x.Id);
 
-    <button name ="submit" type="submit" class="btn btn-primary" value="draft">Save as Draft</button>
+    <button name ="submit" type="submit" class="btn btn-primary">Save</button>
 
 }
 @section scripts

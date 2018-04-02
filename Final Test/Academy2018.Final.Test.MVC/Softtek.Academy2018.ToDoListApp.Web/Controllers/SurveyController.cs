@@ -1,6 +1,5 @@
 ﻿using Newtonsoft.Json;
 using Softtek.Academy2018.ToDoListApp.Web.Models;
-using Softtek.Academy2018.ToDoListApp.Web.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,52 +31,65 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
                 List<SurveyDTO> list = JsonConvert.DeserializeObject<List<SurveyDTO>>(data);
 
 
-                List<SurveyViewModel> surveyView = list.Select(q => new SurveyViewModel
+                List<SurveyDTO> surveyView = list.Select(q => new SurveyDTO
                 {
                     Id = q.Id,
                     Title = q.Title,
                     Description = q.Description,
-                    StatusId = q.StatusId,
-                    Status = (Status)q.StatusId
+                    Status = (Status)q.Status
                 }).ToList();
 
                 return View(surveyView);
             }
         }
 
-        public ActionResult Delete(SurveyViewModel survey)
+        public ActionResult Delete(SurveyDTO survey)
         {
             return View(survey);
         }
 
-        public ActionResult New(SurveyViewModel newSurvey)
+        public ActionResult New(SurveyDTO newSurvey)
         {
             if (newSurvey.Id == 0)
             {
-                var createSurvey = new SurveyViewModel() ;// { Questions = GetQuestions() };
+                var createSurvey = new SurveyDTO(); // { Questions = GetQuestions() };
+                createSurvey.Status = Status.Ready;
                 return View(createSurvey);
             }
 
-            SurveyViewModel updateSurvey = Get(newSurvey.Id);
-            updateSurvey.Questions = GetQuestions(updateSurvey.Id);
-            updateSurvey.Action = "Update";
-
+            SurveyDTO updateSurvey = Get(newSurvey.Id);
+            updateSurvey.Status = Status.Ready;
             return View(updateSurvey);
+        }
+
+        [HttpGet]
+        public ActionResult Edit(int id)
+        {
+            using (HttpClient client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("http://localhost:52217");
+
+                var result = client.GetAsync($"/api/Survey/{id}");
+                string data = result.Result.Content.ReadAsStringAsync().Result;
+                SurveyDTO survey = JsonConvert.DeserializeObject<SurveyDTO>(data);
+
+                return View(survey);
+            }
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Save(SurveyDTO survey, string submit)
         {
-            switch (submit)
-            {
-                case "draft":
-                    survey.StatusId = 1;
-                    break;
-                case "ready":
-                    survey.StatusId = 2;
-                    break;
-            }
+            //switch (submit)
+            //{
+            //    case "draft":
+            //        survey.StatusId = 1;
+            //        break;
+            //    case "ready":
+            //        survey.StatusId = 2;
+            //        break;
+            //}
 
             using (HttpClient client = new HttpClient())
             {
@@ -104,21 +116,19 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
 
                 //var response = JsonConvert.DeserializeObject<List<QuestionList>>(data);
 
-                var resultado = JsonConvert.DeserializeObject<QuestionList>(data);
+                List<QuestionDTO> list = JsonConvert.DeserializeObject<List<QuestionDTO>>(data);
+
+                //ICollection<QuestionDTO> questionList = new List<QuestionDTO>();
+
+                //QuestionDTO question = new QuestionDTO
+                //{
+                //    Text = resultado.Question[0].Text,
+                //    Id = resultado.Question[0].Id,
+                //    QuestionTypeId = resultado.Question[0].QuestionTypeId
+                //};
 
 
-
-                ICollection<QuestionDTO> questionList = new List<QuestionDTO>();
-
-                QuestionDTO question = new QuestionDTO
-                {
-                    Text = resultado.Question[0].Text,
-                    Id = resultado.Question[0].Id,
-                    QuestionTypeId = resultado.Question[0].QuestionTypeId
-                };
-
-
-                questionList.Add(question);
+                //questionList.Add(question);
 
                 //JavaScriptSerializer ser = new JavaScriptSerializer();
 
@@ -126,14 +136,14 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
 
                 //List<QuestionDTO> list = alllist.Where(x => x.IsActive == true).ToList();
 
-                return questionList;
+                return list;
             }
         }
 
         [HttpGet]
         public ActionResult Details(int id)
         {
-            SurveyViewModel surveyView = Get(id);
+            SurveyDTO surveyView = Get(id);
             return View(surveyView);
         }
 
@@ -141,9 +151,7 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Update(SurveyDTO survey)
         {
-            int id = survey.Id;
-
-            if (survey.Status==Status.Done)
+            if (survey.Status == Status.Done)
             {
                 using (HttpClient client = new HttpClient())
                 {
@@ -151,16 +159,16 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
 
                     var content = new ObjectContent<SurveyDTO>(survey, new JsonMediaTypeFormatter());
 
-                    var result = client.PutAsync($"/api/survey/{id}", content).Result;
-                } 
+                    var result = client.PutAsync($"/api/survey/{survey.Id}", content).Result;
+                }
             }
             return RedirectToAction("List", "Survey");
         }
         
         [HttpPost]
-        public async Task<ActionResult> Cancel(SurveyViewModel survey, string submit)
+        public async Task<ActionResult> Cancel(SurveyDTO survey, string submit)
         {
-            SurveyViewModel currentSurvey = Get(survey.Id);
+            SurveyDTO currentSurvey = Get(survey.Id);
 
             if (submit=="yes" && survey.Status!=Status.Done)
             {
@@ -176,7 +184,7 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
         }
 
         [HttpGet]
-        public SurveyViewModel Get(int id)
+        public SurveyDTO Get(int id)
         {
             using (HttpClient client = new HttpClient())
             {
@@ -188,18 +196,18 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
 
                 SurveyDTO survey = JsonConvert.DeserializeObject<SurveyDTO>(data);
 
-                survey.Status = (Status)survey.StatusId;
+                survey.Status = (Status)survey.Status;
 
-                //ICollection<QuestionDTO> questionList = GetQuestions(id);
+                ICollection<QuestionDTO> questionList = GetQuestions(id);
 
-                SurveyViewModel surveyView = new SurveyViewModel
+                SurveyDTO surveyView = new SurveyDTO
                 {
                     Id = survey.Id,
                     Title = survey.Title,
                     Description = survey.Description,
                     Status = survey.Status,
                     IsActive = survey.IsActive,
-                   // Questions = questionList
+                    Questions = questionList
                 };
 
                 

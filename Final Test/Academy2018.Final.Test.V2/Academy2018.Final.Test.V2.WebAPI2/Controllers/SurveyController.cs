@@ -32,16 +32,27 @@ namespace Academy2018.Final.Test.V2.WebAPI2.Controllers
             SurveyDTO surveyDTO = new SurveyDTO();
             surveyDTO = new SurveyDTO
             {
+                Id = result.Id,
                 Title = result.Title,
                 Description = result.Description,
+                Status = result.Status,
                 IsActive = result.IsActive
             };
 
-            //var payload = new
-            //{
-            //    result = surveyDTO
-            //};
             return Ok(surveyDTO);
+        }
+
+        [Route("{id:int}")]
+        [HttpPut]
+        public IHttpActionResult UpdateSurvey([FromUri] int id, [FromBody] Survey survey)
+        {
+            Survey result = _surveyService.GetById(id);
+            if (result == null)
+                return BadRequest("No items match the search parameter");
+            survey.Id = id;
+            _surveyService.UpdateSurvey(survey);
+
+            return Ok();
         }
 
         [Route("{id:int}/allquestions")]
@@ -64,10 +75,6 @@ namespace Academy2018.Final.Test.V2.WebAPI2.Controllers
                 });
             }
 
-            //var payload = new { question = questionDTOList };
-
-            //return Ok(payload);
-
             return Ok(questionDTOList);
         }
 
@@ -85,7 +92,8 @@ namespace Academy2018.Final.Test.V2.WebAPI2.Controllers
             {
                 surveyDTOList.Add(new SurveyDTO
                 {
-                    StatusId = survey.StatusId,
+                    Id = survey.Id,
+                    Status = survey.Status,
                     Title = survey.Title,
                     Description = survey.Description,
                     IsActive = survey.IsActive,
@@ -103,6 +111,7 @@ namespace Academy2018.Final.Test.V2.WebAPI2.Controllers
 
             Survey survey = new Survey
             {
+                Id = surveyDTO.Id,
                 Title = surveyDTO.Title,
                 Description = surveyDTO.Description,
                 IsActive = surveyDTO.IsActive,

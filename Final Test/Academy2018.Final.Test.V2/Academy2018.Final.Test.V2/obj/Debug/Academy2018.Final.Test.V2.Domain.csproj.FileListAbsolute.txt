@@ -4,3 +4,9 @@ C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\bin\Debug\Acade
 C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\bin\Debug\Academy2018.Final.Test.V2.pdb
 C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\obj\Debug\Academy2018.Final.Test.V2.dll
 C:\FinalTest\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\obj\Debug\Academy2018.Final.Test.V2.pdb
+C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\bin\Debug\Academy2018.Final.Test.V2.dll
+C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\bin\Debug\Academy2018.Final.Test.V2.pdb
+C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\obj\Debug\Academy2018.Final.Test.V2.Domain.csprojResolveAssemblyReference.cache
+C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\obj\Debug\Academy2018.Final.Test.V2.Domain.csproj.CoreCompileInputs.cache
+C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\obj\Debug\Academy2018.Final.Test.V2.dll
+C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2\obj\Debug\Academy2018.Final.Test.V2.pdb

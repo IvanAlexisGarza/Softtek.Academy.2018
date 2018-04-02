@@ -88,13 +88,9 @@
     <Compile Include="Migrations\201803160019402_Init-1.Designer.cs">
       <DependentUpon>201803160019402_Init-1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201803160121355_Init-2.cs" />
-    <Compile Include="Migrations\201803160121355_Init-2.Designer.cs">
-      <DependentUpon>201803160121355_Init-2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201803160155010_Init-3.cs" />
-    <Compile Include="Migrations\201803160155010_Init-3.Designer.cs">
-      <DependentUpon>201803160155010_Init-3.cs</DependentUpon>
+    <Compile Include="Migrations\201803211847349_Init-2.cs" />
+    <Compile Include="Migrations\201803211847349_Init-2.Designer.cs">
+      <DependentUpon>201803211847349_Init-2.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -116,11 +112,8 @@
     <EmbeddedResource Include="Migrations\201803160019402_Init-1.resx">
       <DependentUpon>201803160019402_Init-1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201803160121355_Init-2.resx">
-      <DependentUpon>201803160121355_Init-2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201803160155010_Init-3.resx">
-      <DependentUpon>201803160155010_Init-3.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201803211847349_Init-2.resx">
+      <DependentUpon>201803211847349_Init-2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

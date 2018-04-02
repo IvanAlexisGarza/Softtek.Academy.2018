@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Softtek.Academy2018.ToDoListApp.Web.ViewModels.SurveyViewModel>
+﻿@model IEnumerable<Softtek.Academy2018.ToDoListApp.Web.Models.SurveyDTO>
 @using Softtek.Academy2018.ToDoListApp.Web.Models
 @{
     ViewBag.Title = "List";
@@ -7,6 +7,9 @@
 
 <h2>My pending items</h2>
 <br />
+@*<div style="display:block">
+    @Html.Partial("New", new SurveyDTO { })
+</div>*@
 @Html.ActionLink("Add survey", "New", "Survey")
 <hr />
 <br />
@@ -35,7 +38,7 @@ else
                     <td headers="th2">@survey.Description</td>
                     <td headers="th3">@survey.Status</td>
                     <td headers="th4">@survey.IsActive</td>
-                    <td headers="th5">@Html.Partial("_PartialButtons", new PartialButton { Id = survey.Id })</td>
+                    <td headers="th5">@Html.Partial("_TableButtons", new SurveyDTO { Id = survey.Id })</td>
                 </tr>
 
             }

@@ -29,9 +29,10 @@ namespace Academy2018.Final.Test.V2.WebAPI2.Controllers
             if (result == null)
                 return BadRequest("No items match the search parameter");
 
-            QuestionDTO surveyDTO = new QuestionDTO();
-            surveyDTO = new QuestionDTO
+            QuestionDTO questionDTO = new QuestionDTO();
+            questionDTO = new QuestionDTO
             {
+                Id = result.Id,
                 Text = result.Text,
                 QuestionTypeId = result.QuestionTypeId,
             };
@@ -40,7 +41,7 @@ namespace Academy2018.Final.Test.V2.WebAPI2.Controllers
             //{
             //    result = surveyDTO
             //};
-            return Ok(surveyDTO);
+            return Ok(questionDTO);
         }
 
         [Route("all")]
@@ -57,6 +58,7 @@ namespace Academy2018.Final.Test.V2.WebAPI2.Controllers
             {
                 questionDTOList.Add(new QuestionDTO
                 {
+                    Id = question.Id,
                     Text = question.Text,
                     QuestionTypeId = question.QuestionTypeId,
                 });
@@ -83,6 +85,7 @@ namespace Academy2018.Final.Test.V2.WebAPI2.Controllers
             {
                 optionList.Add(new Option
                 {
+                    Id = option.Id,
                     Text = option.Text,
                     ScoreValue = option.ScoreValue
                 });

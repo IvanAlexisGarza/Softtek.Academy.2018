@@ -1,0 +1,70 @@
+﻿@model Softtek.Academy2018.ToDoListApp.Web.Models.SurveyDTO
+@using Softtek.Academy2018.ToDoListApp.Web.Models
+
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2 class="text-center">@Model.Title</h2>
+@if (Model == null)
+{
+    <h2>The survey couldn't be found!</h2>
+}
+
+@using (Html.BeginForm("Update", "Survey"))
+{
+    if (Model.Status == Status.Ready)
+    {
+        <div class="form-group">
+            @Html.LabelFor(i => i.Title)
+            @Html.TextBoxFor(i => i.Title, new { @class = "form-control" })
+            @Html.ValidationMessageFor(i => i.Title)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(i => i.Description)
+            @Html.TextAreaFor(i => i.Description, new { @class = "form-control" })
+            @Html.ValidationMessageFor(i => i.Description)
+        </div>
+    }
+    else
+    {
+        <div class="form-group">
+            @Html.LabelFor(i => i.Title)
+            <br />
+            @Model.Title
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(i => i.Description)
+            <br />
+            @Model.Description
+        </div>
+    }
+
+    <div class="form-group">
+        @Html.LabelFor(i => i.IsActive)
+        @Html.CheckBoxFor(i => i.IsActive)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(i => i.Status)
+        @Html.EnumDropDownListFor(i => i.Status)
+    </div>
+
+    @Html.AntiForgeryToken()
+
+    @Html.HiddenFor(x => x.Id);
+
+    <button name="submit" type="submit" class="btn btn-primary" value="ready">Save</button>
+
+}
+<hr />
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

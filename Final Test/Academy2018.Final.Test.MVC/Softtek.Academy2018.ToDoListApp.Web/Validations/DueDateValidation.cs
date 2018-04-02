@@ -1,5 +1,4 @@
 ﻿using Softtek.Academy2018.ToDoListApp.Web.Models;
-using Softtek.Academy2018.ToDoListApp.Web.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
