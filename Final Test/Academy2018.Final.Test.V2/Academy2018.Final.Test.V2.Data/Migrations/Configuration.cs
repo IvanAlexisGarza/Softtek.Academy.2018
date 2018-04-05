@@ -103,7 +103,7 @@ namespace Academy2018.Final.Test.V2.Data.Migrations
             //context.Questions.Add(question);
             //context.SaveChanges();
 
-            
+
         }
     }
 }

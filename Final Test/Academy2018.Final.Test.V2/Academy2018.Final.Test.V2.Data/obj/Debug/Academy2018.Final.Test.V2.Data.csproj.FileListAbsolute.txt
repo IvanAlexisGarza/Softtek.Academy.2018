@@ -93,10 +93,7 @@ C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2
 C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Data\bin\Debug\System.Web.Http.xml
 C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Data\obj\Debug\Academy2018.Final.Test.V2.Data.csproj.App.config
 C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Data\obj\Debug\Academy2018.Final.Test.V2.Data.csprojResolveAssemblyReference.cache
-C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Data\obj\Debug\Academy2018.Final.Test.V2.Data.Migrations.Init1.resources
-C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Data\obj\Debug\Academy2018.Final.Test.V2.Data.csproj.GenerateResource.Cache
 C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Data\obj\Debug\Academy2018.Final.Test.V2.Data.csproj.CoreCompileInputs.cache
 C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Data\obj\Debug\Academy2018.Final.Test.V2.Data.dll
 C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Data\obj\Debug\Academy2018.Final.Test.V2.Data.pdb
-C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Data\obj\Debug\Academy2018.Final.Test.V2.Data.Migrations.Init2.resources
 C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.V2\Academy2018.Final.Test.V2.Data\obj\Debug\Academy2018.Final.Test.V2.Data.csproj.CopyComplete

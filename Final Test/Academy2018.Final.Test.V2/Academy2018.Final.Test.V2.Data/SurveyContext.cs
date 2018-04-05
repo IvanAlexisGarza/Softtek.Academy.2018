@@ -10,7 +10,7 @@ namespace Academy2018.Final.Test.V2.Data
 {
     public class SurveyContext : DbContext
     {
-        public SurveyContext() : base("SurveyTestDb2")
+        public SurveyContext() : base("SurveyTestDB")
         {
         }
 
