@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.MVC", "Softtek.Academy2018.ToDoListApp.Web\Test.MVC.csproj", "{6E69D8CA-FDA5-4805-ADFB-B9233139F3BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTesting", "SeleniumTesting\SeleniumTesting.csproj", "{3E0BA117-B43C-4D9E-A0BC-BA5A8420F6AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6E69D8CA-FDA5-4805-ADFB-B9233139F3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E69D8CA-FDA5-4805-ADFB-B9233139F3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E69D8CA-FDA5-4805-ADFB-B9233139F3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0BA117-B43C-4D9E-A0BC-BA5A8420F6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0BA117-B43C-4D9E-A0BC-BA5A8420F6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0BA117-B43C-4D9E-A0BC-BA5A8420F6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0BA117-B43C-4D9E-A0BC-BA5A8420F6AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

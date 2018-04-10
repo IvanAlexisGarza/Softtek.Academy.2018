@@ -73,8 +73,6 @@ namespace Academy2018.Final.Test.V2.Data.Implementations
         {
             using (var context = new SurveyContext())
             {
-
-                survey.Status = (Status)2;//Draft
                 context.Surveys.Add(survey);
                 context.SaveChanges();
                 return survey.Id;
@@ -114,10 +112,12 @@ namespace Academy2018.Final.Test.V2.Data.Implementations
 
                 if (surveyInDb == null) return false;
 
-                surveyInDb.Id = survey.Id;
+                //surveyInDb.Id = survey.Id;
                 surveyInDb.Title = survey.Title;
                 surveyInDb.Description = survey.Description;
                 surveyInDb.IsActive = survey.IsActive;
+                surveyInDb.Status = survey.Status;
+                surveyInDb.ModifiedDate = DateTime.Now;
 
                 context.SaveChanges();
 

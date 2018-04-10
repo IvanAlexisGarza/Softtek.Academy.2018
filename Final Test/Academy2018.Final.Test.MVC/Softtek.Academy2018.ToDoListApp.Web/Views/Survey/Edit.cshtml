@@ -15,7 +15,7 @@
 
 @using (Html.BeginForm("Update", "Survey"))
 {
-    if (Model.Status == Status.Ready)
+    if (Model.Status == Status.Ready || Model.Status == Status.Draft)
     {
         <div class="form-group">
             @Html.LabelFor(i => i.Title)
@@ -34,13 +34,13 @@
         <div class="form-group">
             @Html.LabelFor(i => i.Title)
             <br />
-            @Model.Title
+            @Html.TextBoxFor(i => i.Title, new { @readonly = "Readonly"})
         </div>
 
         <div class="form-group">
             @Html.LabelFor(i => i.Description)
             <br />
-            @Model.Description
+            @Html.TextAreaFor(i => i.Description, new { @readonly = "Readonly" })
         </div>
     }
 
@@ -59,7 +59,6 @@
     @Html.HiddenFor(x => x.Id);
 
     <button name="submit" type="submit" class="btn btn-primary" value="ready">Save</button>
-
 }
 <hr />
 
@@ -67,4 +66,3 @@
 {
     @Scripts.Render("~/bundles/jqueryval")
 }
-

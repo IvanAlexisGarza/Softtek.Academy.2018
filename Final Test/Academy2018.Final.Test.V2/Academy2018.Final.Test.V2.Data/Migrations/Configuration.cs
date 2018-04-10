@@ -70,12 +70,16 @@ namespace Academy2018.Final.Test.V2.Data.Migrations
             //    Options = context.Options.Where(x => x.Id == 2).ToList()
             //});
 
-            //context.Surveys.Add(new Domain.Model.Survey
+            //context.Surveys.Add(new Survey
             //{
+            //    Id = 1,
             //    Title = "Survey 1",
             //    Description = "First Survey Test, Direct insert",
-            //    Questions = context.Questions.Where(x => x.Text == "Pregunta 2").ToList(),
+            //    Questions = context.Questions.Where(x => x.Id == 2).ToList(),
             //    IsActive = true,
+            //    CreatedDate = DateTime.Now,
+            //    ModifiedDate = DateTime.Now,
+            //    Status = Status.Draft,
             //});
 
             //context.Questions.Add(new Domain.Model.Question
@@ -102,8 +106,6 @@ namespace Academy2018.Final.Test.V2.Data.Migrations
 
             //context.Questions.Add(question);
             //context.SaveChanges();
-
-
         }
     }
 }

@@ -6,7 +6,6 @@ using System.Linq;
 using System.Net.Http;
 using System.Web;
 using System.Web.Mvc;
-
 using System.Net.Http.Formatting;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,7 +15,6 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
 {
     public class SurveyController : Controller
     {
-        // GET: Item
         [HttpGet]
         public ActionResult List()
         {
@@ -30,7 +28,6 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
 
                 List<SurveyDTO> list = JsonConvert.DeserializeObject<List<SurveyDTO>>(data);
 
-
                 List<SurveyDTO> surveyView = list.Select(q => new SurveyDTO
                 {
                     Id = q.Id,
@@ -43,22 +40,15 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
             }
         }
 
-        public ActionResult Delete(SurveyDTO survey)
-        {
-            return View(survey);
-        }
-
         public ActionResult New(SurveyDTO newSurvey)
         {
             if (newSurvey.Id == 0)
             {
                 var createSurvey = new SurveyDTO(); // { Questions = GetQuestions() };
-                createSurvey.Status = Status.Ready;
                 return View(createSurvey);
             }
 
             SurveyDTO updateSurvey = Get(newSurvey.Id);
-            updateSurvey.Status = Status.Ready;
             return View(updateSurvey);
         }
 
@@ -81,16 +71,6 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Save(SurveyDTO survey, string submit)
         {
-            //switch (submit)
-            //{
-            //    case "draft":
-            //        survey.StatusId = 1;
-            //        break;
-            //    case "ready":
-            //        survey.StatusId = 2;
-            //        break;
-            //}
-
             using (HttpClient client = new HttpClient())
             {
                 client.BaseAddress = new Uri("http://localhost:52217");
@@ -112,29 +92,8 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
                 var result = client.GetAsync($"/api/Survey/{id}/allquestions");
 
                 string data = result.Result.Content.ReadAsStringAsync().Result;
-                //data = data.Remove(0, data.IndexOf('{'));
-
-                //var response = JsonConvert.DeserializeObject<List<QuestionList>>(data);
 
                 List<QuestionDTO> list = JsonConvert.DeserializeObject<List<QuestionDTO>>(data);
-
-                //ICollection<QuestionDTO> questionList = new List<QuestionDTO>();
-
-                //QuestionDTO question = new QuestionDTO
-                //{
-                //    Text = resultado.Question[0].Text,
-                //    Id = resultado.Question[0].Id,
-                //    QuestionTypeId = resultado.Question[0].QuestionTypeId
-                //};
-
-
-                //questionList.Add(question);
-
-                //JavaScriptSerializer ser = new JavaScriptSerializer();
-
-                //var response = new ser.Deserialize<List<QuestionList>>(data);
-
-                //List<QuestionDTO> list = alllist.Where(x => x.IsActive == true).ToList();
 
                 return list;
             }
@@ -151,17 +110,15 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Update(SurveyDTO survey)
         {
-            if (survey.Status == Status.Done)
+            using (HttpClient client = new HttpClient())
             {
-                using (HttpClient client = new HttpClient())
-                {
-                    client.BaseAddress = new Uri("http://localhost:52217");
-
-                    var content = new ObjectContent<SurveyDTO>(survey, new JsonMediaTypeFormatter());
-
-                    var result = client.PutAsync($"/api/survey/{survey.Id}", content).Result;
-                }
+                client.BaseAddress = new Uri("http://localhost:52217");
+            
+                var content = new ObjectContent<SurveyDTO>(survey, new JsonMediaTypeFormatter());
+            
+                var result = client.PutAsync($"/api/survey/{survey.Id}", content).Result;
             }
+
             return RedirectToAction("List", "Survey");
         }
         
@@ -209,12 +166,8 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Controllers
                     IsActive = survey.IsActive,
                     Questions = questionList
                 };
-
-                
-
                 return surveyView;
             }
         }
-
     }
 }

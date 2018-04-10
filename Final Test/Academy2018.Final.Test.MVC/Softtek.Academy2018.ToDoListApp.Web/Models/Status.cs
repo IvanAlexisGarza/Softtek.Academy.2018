@@ -10,6 +10,6 @@ namespace Softtek.Academy2018.ToDoListApp.Web.Models
         Draft = 1,
         Ready,
         Done,
-        Cancelled
+        Cancelled,
     }
 }

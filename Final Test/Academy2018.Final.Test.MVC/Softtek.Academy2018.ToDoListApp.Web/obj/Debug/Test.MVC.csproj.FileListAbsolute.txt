@@ -191,3 +191,5 @@ C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.MVC\Softtek
 C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.MVC\Softtek.Academy2018.ToDoListApp.Web\obj\Debug\Softtek.Academy2018.ToDoListApp.Web.dll
 C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.MVC\Softtek.Academy2018.ToDoListApp.Web\obj\Debug\Softtek.Academy2018.ToDoListApp.Web.pdb
 C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.MVC\Softtek.Academy2018.ToDoListApp.Web\obj\Debug\Test.MVC.csproj.CopyComplete
+C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.MVC\Softtek.Academy2018.ToDoListApp.Web\bin\WebDriver.dll
+C:\Repository\Softtek.Academy.2018\Final Test\Academy2018.Final.Test.MVC\Softtek.Academy2018.ToDoListApp.Web\bin\WebDriver.xml
